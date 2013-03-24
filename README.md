@@ -1,4 +1,4 @@
 blog
 ====
 
-Content for my blog
+Content for generating my Pelican blog.

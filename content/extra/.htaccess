@@ -1,0 +1,2 @@
+ErrorDocument 404 /pages/page-not-found/index.html
+ErrorDocument 500 /pages/server-error/index.html

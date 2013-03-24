@@ -1,0 +1,8 @@
+p > a > img {
+    float: left;
+    padding-right: 2em;
+}
+
+.brand.active {
+    color: white;
+}
