@@ -47,6 +47,10 @@ CATEGORY_SAVE_AS = 'blog/articles/{slug}/index.html'
 CATEGORIES_SAVE_AS = False
 #GOOGLE_CUSTOM_SEARCH_SIDEBAR = '018193035311198604531:sstiw_ahsvu'
 
+TAG_URL = 'blog/{name}'
+TAG_SAVE_AS = 'blog/{name}/index.html'
+TAGS_SAVE_AS = False 
+
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 

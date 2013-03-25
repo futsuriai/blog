@@ -60,16 +60,17 @@
 
    {% include 'header.html' %}
 
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         <div class="span9" id="content">
             {% block content %}
             {% endblock %}
         </div><!--/span-->
-
-         <!-- <div class="span3 well sidebar-nav" id="sidebar"> -->     
+	{% if active_page == 'blog' %}
+         <div class="span3 well sidebar-nav" id="sidebar">    
 	 {% include 'sidebar.html' %}
-        <!-- </div> -->
+         </div> 
+	 {% endif %}
       </div><!--/row-->
 
       <hr>
@@ -88,5 +89,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/moment.min.js"></script>
+    <script>$(document).ready($('abbr.published').each(function(i,e){$(e).append(' ('+moment(e.title).fromNow()+')')}));</script>
   </body>
 </html>
