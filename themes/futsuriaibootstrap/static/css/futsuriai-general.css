@@ -6,3 +6,20 @@ p > a > img {
 .brand.active {
     color: white;
 }
+
+.sidebar-right{
+    float: right;
+}
+.sidebar-left{
+    float: left;
+}
+
+.sidebar-list{
+    clear: both;
+}
+
+#slideShow {
+width : 360px;
+height : 360px;
+padding : 10px;
+}

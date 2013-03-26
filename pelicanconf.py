@@ -2,14 +2,17 @@
 # -*- coding: utf-8 -*- #
 
 from datetime import date
-
+from pelican.plugins import summary
 AUTHOR = u'Andres Franceschi'
 SITENAME = u'Futsuriai'
-SITEURL = 'futsuriai.com/blog'
+SITEURL = 'http://futsuriai.com'
+BLOGURL = SITEURL+'/blog'
 
 TIMEZONE = 'America/New_York'
 
 THEME = 'themes/futsuriaibootstrap'
+
+PLUGINS = [summary,]
 
 DEFAULT_LANG = u'en'
 
@@ -37,6 +40,11 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
+FEED_DOMAIN = SITEURL
+
+FEED_RSS = "feeds/all.rss.xml"
+TAG_FEED_RSS = "feeds/%s.rss.xml"
 
 ARTICLE_DIR = 'posts'
 ARTICLE_URL = 'blog/posts/{slug}/'

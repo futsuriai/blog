@@ -12,16 +12,6 @@
               <li {% if active_page == 'blog' %}class="active" {% endif %}><a href="/blog">Blog</a></li>
               <li {% if page and page.header == 'about'%}class="active" {% endif %}><a href="/about">About</a></li>
               <li><a href="#contact">Contact</a></li>		  
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Trips <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li class="nav-header">2013</li>
-                  <li><a href="#">Japan (upcoming)</a></li>
-                  <li class="divider"></li>
-                  <li class="nav-header">2011</li>
-                  <li><a href="#">Lebanon</a></li>
-                </ul>
-              </li>
 	      <!--
               {% for title, link in MENUITEMS %}
                   <li><a href="{{ link }}">{{ title }}</a></li>
@@ -47,6 +37,10 @@
                           </ul>
 -->
             <!--<p class="navbar-text pull-right">Logged in as <a href="#">username</a></p>-->
+ <p class="navbar-text pull-right"><a class="sidebar-right" href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">
+      <i class="icon-rss icon-large"></i>&nbsp;
+    </a>
+</p>
           </div><!--/.nav-collapse -->
         </div>
       </div>

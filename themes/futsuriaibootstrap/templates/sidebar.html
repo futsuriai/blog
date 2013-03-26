@@ -4,14 +4,17 @@
 <li class="nav-header"><h4><i class="icon-bookmark"></i>categories</h4></li>
 {% for tag in tag_cloud %}
 {% if display_tags[tag.0.name.strip()] %}
-<li>
-    <a href="{{ SITEURL }}/{{ tag.0.url }}">
+<li class="sidebar-list">
+    <a class="sidebar-left" href="{{ SITEURL }}/{{ tag.0.url }}">
         <i class="{{display_tags[tag.0.name.strip()]}} icon-large"></i>{{ tag.0 }}
+    </a> 
+    <a class="sidebar-right" href="{{ SITEURL }}/{{ TAG_FEED_RSS|format(tag.0.name.strip()) }}" rel="alternate">
+      <i class="icon-rss icon-large"></i>&nbsp;
     </a>
 </li>
 {% endif %}
 {% endfor %}
-{% include 'twitter_profile.html' %}
+
 {% include 'search_sidebar.html' %}
 
 {% if SIDEBAR_CUSTOM %}
