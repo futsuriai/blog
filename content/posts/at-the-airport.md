@@ -1,0 +1,27 @@
+Title: Pre-Flight Thoughts
+Date: 2013-03-30 14:45
+Author: Andres Franceschi
+Category: travels
+Tags: travels, japan, china
+
+<table style="width:auto;" class="left_table"><tr><td><a href="https://picasaweb.google.com/lh/photo/T653BFG2o8wt3pchwbklpabq3YxxhbMQz8E9dkaPIPU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-LoPB9_7_Xno/UVcxMugHQRI/AAAAAAAAG3Y/pVC41zTIkm4/s288/GrandCentral.jpg" height="216" width="288" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/109314153461120302310/JapanTripMarch302013?authuser=0&feat=embedwebsite">Japan Trip - March 30, 2013</a></td></tr></table>  After driving to my friend's house in NY yesternight, waking up early to catch a train into the city and then a shuttle to JFK, having to wait until the Air China counter was opened, then having a minor hassle because of some inter-departamental miscommunications regarding who I sent my 72-Hour Visa-less stay form to, I'm finally waiting at the gate. 
+
+I feel like the fact that the trip starts in around 2 hours hasn't sunk in yet. It's a trip I've long wanted to do to some capacity or another. At times I'd considered trying to look for a job in Japan, maybe see if I could go teach English, but that never ended up happening. It's something I'd been vaguely thinking of doing, talking to some people about for years. It had become a "maybe one day" kind of thing. I had no time due to studies or no money, or I had time but I needed to find a job, or I had a job but didn't have enough vacation days, or I had enough vacation days and a job but... well here I am. I'm glad I was actually able to make it happen on my own initiative without somebody planning it out and me tagging along.
+
+I'm also excited for the fact that while I originally had tentatively asked around to see if anyone else was interested that nobody was free/could make itt/etc as I'd never done a trip on my own. Granted for around half the trip I do have plans to stay with / see friends but the other half I not only have no friends to see line up but no concrete plans either. I want to see where the flow takes me, as it were. This 'plan-less half' of the trip is also the one where I have a 'go anywhere (almost) in Japan rail pass" which adds to the ability to go wherever I hear is worth going. 
+
+I know there are things I want to see. The [cherry blossoms] in full bloom (might be a bit trickier than intended since they are blooming a little earlier than expected but not by enough that I'll miss it. The countryside. Small, traditonal-ish villages. Hiroshima. Kyoto. Whatever I can see from my many, many high-speed train rides. People doing what they normally do, especially in quieter villages. After a conversation a while back with a friend I realized cities themselves are not quite as interesting to visit as they once might have been for me. Don't get me wrong, I'd rather live in a city than anywhere else, but especially the more developed/modernized cities all somewhat meld together. They have a different coat of paint, yes, and you see different things but a city is a city, generally speaking. That's why Tokyo doesn't interest me quite as much as, say Kyoto, which from what I've heard/read has retained a lot more individuality rather than becoming another super-metropolis. 
+ <table style="width:auto;" class="right_table"><tr><td><a href="https://picasaweb.google.com/lh/photo/kcIn7IDRKvqDnp4httbRrKbq3YxxhbMQz8E9dkaPIPU?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ca57AMA0Dhw/UVcxOtAJdgI/AAAAAAAAG3g/8FGhy91zJVw/s288/JFK.jpg" height="216" width="288" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/109314153461120302310/JapanTripMarch302013?authuser=0&feat=embedwebsite">Japan Trip - March 30, 2013</a></td></tr></table>
+
+Oh, and tea shops, lots and lots of tea shops. I will be having lots of tea and you will be seeing many pictures of tea leaves.
+
+The other huge advantage of travelling alone for a large portion of the Japan part of the trip is that (theoretically) I should be able to practice my Japanese more without someone to fall back on English/Spanish with. I've already decided that if I really feel like practicing it I'll just pretend I only speak Spanish but the main challenge will be, much like with make this trip happen when I am generally content to let others plan, to force myself to talk to people I don't know often. I'm hoping to stay on a roll and making it happen but we'll see, even in languages I speak fluently I don't get too talkative until I know people better but maybe not being as proficient as a tourist will help me...somehow. 
+
+The eagle-eyed among you may notice I put up a little "Latitude" widget on the sidebar. Theoretically it should track me whenever my phone gets a lock and an internet signal so you can stalk me to your liking. If you want to stalk me on latitude-proper where you can zoom in and pan around just add me, my gmail is futsuriai.
+
+Now as I sit here in JFK waiting to get called after writing all this out, I have to say it's beginning to sink in and it's a very nice feeling. Yes, very nice indeed.
+
+
+
+[cherry blossoms]: https://www.google.com/search?um=1&hl=en&client=ubuntu&channel=cs&biw=1366&bih=659&tbm=isch&btnG=&q=cherry%20blossom%20japan
+[Pelican]: http://docs.getpelican.com/en/3.1.1/

@@ -23,3 +23,13 @@ width : 360px;
 height : 360px;
 padding : 10px;
 }
+
+table.left_table{
+float: left;
+margin-right: 20px;
+}
+
+table.right_table{
+float: right;
+margin-left: 20px;
+}
